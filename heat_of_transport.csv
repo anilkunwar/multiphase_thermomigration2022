@@ -1,4 +1,4 @@
-phase (i), species (j), T (K), (Q*)<sup>i</sup>_j (kJ/mol)
+phase (i), species (j), T (K), Q* (kJ/mol)
 LIQUID , Cu, 523.15, +11.12
 LIQUID, Sn, 523.15, -11.12
 IMC (CU6SN5), Cu, 523.15, +35.10

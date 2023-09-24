@@ -7,4 +7,4 @@ The chemical free energy density of a phase i (i = LIQUID, IMC or FCC ) at 523.1
 
 
 
-[1] S. Liang, A. Kunwar, C. Liu, H. Jiang, and Z. Zhou, “Preferential growth of intermetallics under temperature gradient at Cu–Sn interface during transient liquid phase bonding: insights from phase field simulation,” Journal of Materials Research and Technology, vol. 19, pp. 345–353, 2022, doi: 10.1016/j.jmrt.2022.05.047.
+# [1] S. Liang, A. Kunwar, C. Liu, H. Jiang, and Z. Zhou, “Preferential growth of intermetallics under temperature gradient at Cu–Sn interface during transient liquid phase bonding: insights from phase field simulation,” Journal of Materials Research and Technology, vol. 19, pp. 345–353, 2022, doi: 10.1016/j.jmrt.2022.05.047.

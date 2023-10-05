@@ -1,7 +1,7 @@
 phase, species , Tcold (K), thermal gradient range (K/m), Q* (J/mol)
-LIQUID , Cu, 523.15, , +11120
-LIQUID, Sn, 523.15, , -11120
-IMC (CU6SN5), Cu, 523.15, , +35100
-IMC (CU6SN5), Sn, 523.15, , -3380
-FCC, Cu, 523.15, , +3380
-FCC, Sn, 523.15, , -3380
+LIQUID , Cu, 523.15,1.5E+05 , +1.112E+04
+LIQUID, Sn, 523.15, , -1.112E+04
+IMC (CU6SN5), Cu, 523.15, , +3.51E+04
+IMC (CU6SN5), Sn, 523.15, , -3.38E+03
+FCC, Cu, 523.15, , +3.38E+03
+FCC, Sn, 523.15, , -3.38E+03

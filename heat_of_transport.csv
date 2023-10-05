@@ -1,7 +1,7 @@
-phase, species , T (K), Q* (kJ/mol)
-LIQUID , Cu, 523.15, +11.12
-LIQUID, Sn, 523.15, -11.12
-IMC (CU6SN5), Cu, 523.15, +35.10
-IMC (CU6SN5), Sn, 523.15, -3.38
-FCC, Cu, 523.15,  +3.38
-FCC, Sn, 523.15,  -3.38
+phase, species , Tcold (K),, Q* (kJ/mol)
+LIQUID , Cu, 523.15,, +11.12
+LIQUID, Sn, 523.15,, -11.12
+IMC (CU6SN5), Cu,, 523.15, +35.10
+IMC (CU6SN5), Sn,, 523.15, -3.38
+FCC, Cu, 523.15, , +3.38
+FCC, Sn, 523.15, , -3.38
